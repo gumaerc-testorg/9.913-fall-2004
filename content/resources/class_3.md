@@ -3,8 +3,13 @@ content_type: resource
 description: 'Lecture presentation on feature extraction in machine vision. Topics
   include: Importance of Features, Mathematical Notation & Background, Fourier Transform,
   Windowed Fourier Transform, Wavelets, Feature Anecdote, Literature, and Homework.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-913-pattern-recognition-for-machine-vision-fall-2004/b8a20ab342d99e512cfc84cc1ab0b5be_class_3.pdf
+file: /media/courses/9-913-pattern-recognition-for-machine-vision-fall-2004/b8a20ab342d99e512cfc84cc1ab0b5be_class_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Vision - Feature Extraction I
 uid: b8a20ab3-42d9-9e51-2cfc-84cc1ab0b5be
