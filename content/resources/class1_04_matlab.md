@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f6a0a67-8448-2c14-2aa0-3d63cb8638bb
 resourcetype: Document
 title: 'Quick Matlab Tutorial '
 uid: ddc01ebe-e9eb-4975-867b-47db1fecf4e4

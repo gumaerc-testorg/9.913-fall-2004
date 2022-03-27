@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f6a0a67-8448-2c14-2aa0-3d63cb8638bb
 resourcetype: Document
 title: Vision - Feature Extraction I
 uid: b8a20ab3-42d9-9e51-2cfc-84cc1ab0b5be

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f6a0a67-8448-2c14-2aa0-3d63cb8638bb
 resourcetype: Document
 title: "Class 9 \u2013 Object Detection and Recognition"
 uid: 0fe97ac5-2535-95b4-4e36-188a3b443738

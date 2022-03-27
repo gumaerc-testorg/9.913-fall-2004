@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0f6a0a67-8448-2c14-2aa0-3d63cb8638bb
 resourcetype: Document
 title: Tracking Basics
 uid: 61435dc7-84a5-b1fd-d15d-ef8c5b6ef0e7
