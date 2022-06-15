@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on course administration, problems of computer vision
   and pattern recognition, and a quick review of MATLAB.
-file: /media/courses/9-913-pattern-recognition-for-machine-vision-fall-2004/13f44ca6491046d825be817aa0b4e69c_class1_04_part1.pdf
+file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/13f44ca6491046d825be817aa0b4e69c_class1_04_part1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Class I - Overview
 uid: 13f44ca6-4910-46d8-25be-817aa0b4e69c
 ---
+Lecture presentation on course administration, problems of computer vision and pattern recognition, and a quick review of MATLAB.
+

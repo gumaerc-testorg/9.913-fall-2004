@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of assignment topics, oral presentation
+  paper topics, and final projects.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
