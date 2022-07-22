@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of lectures covered in the class along with
+  the class notes for some lectures.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 0f6a0a67-8448-2c14-2aa0-3d63cb8638bb
 ---
@@ -30,11 +35,11 @@ Overview, Introduction
 {{< tdopen >}}
 
 
-Course Introduction ([PDF - 2.6 MB]({{< baseurl >}}/resources/class1_04_part1))
+Course Introduction ({{% resource_link 13f44ca6-4910-46d8-25be-817aa0b4e69c "PDF - 2.6 MB" %}})
 
-Vision: Feature Extraction Overview ([PDF - 1.9 MB]({{< baseurl >}}/resources/class1_2_2004))
+Vision: Feature Extraction Overview ({{% resource_link 0cc90b67-c95e-0f2e-03a8-022974d3e113 "PDF - 1.9 MB" %}})
 
-Quick MATLAB® Tutorial ([PDF]({{< baseurl >}}/resources/class1_04_matlab))
+Quick MATLAB® Tutorial ({{% resource_link ddc01ebe-e9eb-4975-867b-47db1fecf4e4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -60,7 +65,7 @@ Vision - Image Formation and Processing
 Vision - Feature Extraction I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.4 MB]({{< baseurl >}}/resources/class_3))
+({{% resource_link b8a20ab3-42d9-9e51-2cfc-84cc1ab0b5be "PDF - 2.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,9 +79,9 @@ PR/Vis - Feature Extraction II/Bayesian Decisions
 {{< tdopen >}}
 
 
-Part 1: Bayesian Decision Theory ([PDF - 1.1 MB]({{< baseurl >}}/resources/class4_1))
+Part 1: Bayesian Decision Theory ({{% resource_link 39ddfd23-aa6b-b2a2-a746-c0e9c43ca309 "PDF - 1.1 MB" %}})
 
-Part 2: Principal and Independent Component Analysis ([PDF]({{< baseurl >}}/resources/class_4_part_2))
+Part 2: Principal and Independent Component Analysis ({{% resource_link b05e3cbd-fd9c-ddbb-a529-8c91dd9873ff "PDF" %}})
 
 
 {{< tdclose >}}
@@ -90,7 +95,7 @@ Part 2: Principal and Independent Component Analysis ([PDF]({{< baseurl >}}/reso
 PR - Density Estimation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/class5_2003))
+({{% resource_link ed8364e9-ce86-47d9-d5a6-acf439cd6125 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ PR - Density Estimation
 PR - Classification
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_5))
+({{% resource_link 940f40b5-2940-2d28-340e-e2fd454ac050 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,9 +133,9 @@ PR - Clustering
 {{< tdopen >}}
 
 
-Part 1: Techniques for Clustering ([PDF]({{< baseurl >}}/resources/class7_2004))
+Part 1: Techniques for Clustering ({{% resource_link c5d49e18-188d-abd2-3da9-91a88808a0b0 "PDF" %}})
 
-Part 2: An Application of Clustering ([PDF]({{< baseurl >}}/resources/class_8_2))
+Part 2: An Application of Clustering ({{% resource_link d70f6e12-c4b6-d7d9-f41c-4015df5ff568 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -156,7 +161,7 @@ Paper Discussion
 App I - Object Detection/Recognition
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/class_9))
+({{% resource_link 0fe97ac5-2535-95b4-4e36-188a3b443738 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ _Guest Lecturer: Christopher R. Wren_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0 MB]({{< baseurl >}}/resources/class_11)) Courtesy of Christopher R. Wren. Used with permission.
+({{% resource_link 61435dc7-84a5-b1fd-d15d-ef8c5b6ef0e7 "PDF - 1.0 MB" %}}) Courtesy of Christopher R. Wren. Used with permission.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +203,7 @@ _Guest Lecturer: Christopher R. Wren_
 App IV - Gesture and Action Recognition
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.0 MB]({{< baseurl >}}/resources/class13_2004))
+({{% resource_link 8df18afd-a82f-e9e4-922f-9d33ae4a2b3b "PDF - 3.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
