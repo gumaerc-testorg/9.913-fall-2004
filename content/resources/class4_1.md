@@ -5,6 +5,7 @@ file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/39ddfd23aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Class IV Part I \u2013 Bayesian Decision Theory"
 uid: 39ddfd23-aa6b-b2a2-a746-c0e9c43ca309
 ---
 Lecture presentation on machine learning and Bayesian decision making.
-

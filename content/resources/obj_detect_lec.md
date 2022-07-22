@@ -5,6 +5,7 @@ file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/1e7527641c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Object Detection using a Cascade of Classifiers
 uid: 1e752764-1cd9-0cec-a60f-e3a27f5863ec
 ---
 Lecture presentation on object detection using a cascade of classifiers.
-

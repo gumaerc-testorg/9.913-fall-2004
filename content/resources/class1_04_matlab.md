@@ -5,6 +5,7 @@ file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/ddc01ebee9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Quick Matlab Tutorial '
 uid: ddc01ebe-e9eb-4975-867b-47db1fecf4e4
 ---
 Tutorial on using Matlab.
-

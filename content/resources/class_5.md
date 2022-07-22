@@ -6,6 +6,7 @@ file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/940f40b529
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Classification
 uid: 940f40b5-2940-2d28-340e-e2fd454ac050
 ---
 Lecture presentation on machine vision, classification, linear discriminant analysis, and support vector machines.
-

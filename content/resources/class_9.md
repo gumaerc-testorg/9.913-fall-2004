@@ -5,6 +5,7 @@ file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/0fe97ac525
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Class 9 \u2013 Object Detection and Recognition"
 uid: 0fe97ac5-2535-95b4-4e36-188a3b443738
 ---
 Lecture presentation on object detection and recognition.
-

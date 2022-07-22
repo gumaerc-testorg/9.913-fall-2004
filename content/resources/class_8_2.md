@@ -5,6 +5,7 @@ file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/d70f6e12c4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Class 8-2 \u2013 An Application of Clustering"
 uid: d70f6e12-c4b6-d7d9-f41c-4015df5ff568
 ---
 Lecture presentation on machine vision and clustering.
-

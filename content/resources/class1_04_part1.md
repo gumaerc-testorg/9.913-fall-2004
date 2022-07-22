@@ -6,6 +6,7 @@ file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/13f44ca649
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Class I - Overview
 uid: 13f44ca6-4910-46d8-25be-817aa0b4e69c
 ---
 Lecture presentation on course administration, problems of computer vision and pattern recognition, and a quick review of MATLAB.
-

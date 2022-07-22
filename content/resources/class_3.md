@@ -7,6 +7,7 @@ file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/b8a20ab342
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Vision - Feature Extraction I
 uid: b8a20ab3-42d9-9e51-2cfc-84cc1ab0b5be
 ---
 Lecture presentation on feature extraction in machine vision. Topics include: Importance of Features, Mathematical Notation & Background, Fourier Transform, Windowed Fourier Transform, Wavelets, Feature Anecdote, Literature, and Homework.
-
