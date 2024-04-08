@@ -51,7 +51,7 @@ Duda, Richard O., Peter E. Hart, and David G. Stork. _Pattern classification_. 
 
 ### Optional Reading
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/computational-vision) Mallot, Hanspeter A. [_Computational Vision: Information Processing in Perception and Visual Behavior_](https://mitpress.mit.edu/books/computational-vision). Translated by John S. Allen. Cambridge, MA: MIT Press, 2000. ISBN: 0262133814.
+{{% resource_link "b82b5f00-7a2e-4fc9-982f-72d94b01abdd" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mallot, Hanspeter A. {{% resource_link "b82b5f00-7a2e-4fc9-982f-72d94b01abdd" "_Computational Vision: Information Processing in Perception and Visual Behavior_" %}}. Translated by John S. Allen. Cambridge, MA: MIT Press, 2000. ISBN: 0262133814.
 
 ### Suggested Further Reading
 
