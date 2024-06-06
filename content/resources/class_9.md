@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on object detection and recognition.
 file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/0fe97ac5253595b44e36188a3b443738_class_9.pdf
+file_size: 1254844
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
