@@ -4,6 +4,7 @@ description: Lecture presentation on machine vision, tracking, sum of squared di
   tracker, motion as a queue, the Kalman filter,  multi-mode trackers, and affecting
   the observation process.
 file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/61435dc784a5b1fdd15def8c5b6ef0e7_class_11.pdf
+file_size: 1106378
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
