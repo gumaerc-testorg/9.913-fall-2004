@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on principal component analysis and independent
   component analysis.
-file: /courses/9-913-pattern-recognition-for-machine-vision-fall-2004/b05e3cbdfd9cddbba5298c91dd9873ff_class_4_part_2.pdf
+file: /ol-ocw-studio-app/courses/9-913-pattern-recognition-for-machine-vision-fall-2004/b05e3cbdfd9cddbba5298c91dd9873ff_class_4_part_2.pdf
 file_size: 270929
 file_type: application/pdf
 learning_resource_types:
